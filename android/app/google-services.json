@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "631318363192",
+    "project_id": "messageme-de519",
+    "storage_bucket": "messageme-de519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631318363192:android:2b695859681b097ebabacd",
+        "android_client_info": {
+          "package_name": "com.example.messageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631318363192-lhf1v23soll481hjou7d84ctbluf2ia4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messageapp",
+            "certificate_hash": "51197c88d984f6d21b564ef6aa13dbdcc911e3e1"
+          }
+        },
+        {
+          "client_id": "631318363192-2rt40n1nbmckrrir1tv5kfg4of54jghr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLJNq92nAmIgHeRr8la0PQOgsI9zW6o4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631318363192-2rt40n1nbmckrrir1tv5kfg4of54jghr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
